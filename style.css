@@ -64,9 +64,6 @@ color: burlywood;
 
 .MainShow{
     flex: 2 0 auto;
-    display: flex;
-    flex-direction: column;
-    justify-content: baseline;
 }
 
 .Info img{

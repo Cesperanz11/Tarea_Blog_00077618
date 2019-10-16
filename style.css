@@ -20,6 +20,7 @@ header{
     font-family: 'Mansalva', sans-serif;
     font-size: 100px;
     color: whitesmoke;
+    background-image: image-set("imagenes/misterio1.jpg");
 }
 
 header p{
@@ -58,6 +59,7 @@ color: burlywood;
 
 .MainShow p{
     color: white;
+    font-family: 'Titillium', sans-serif;
 }
 
 .MainShow{
@@ -71,4 +73,11 @@ color: burlywood;
  width: 180px;
  height: 200px;
  border-radius: 10%;
+}
+
+footer{
+    text-align: center;
+    font-size:2em;
+    color: whitesmoke;
+    background-image: image-set("imagenes/misterio2.jpg") ;
 }

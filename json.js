@@ -62,7 +62,6 @@ if(cap=="Chapter 5: Commit"){
     que ppor fin sabemos su identidad real. Únete a Ada y a mi, en esta gran lucha.`
     document.getElementById("cap").innerHTML = `CHAPTER 5: COMMIT   `;
     document.getElementById("info").innerHTML = info;
-    document.getElementById("1").innerHTML = 
 }
 
 }

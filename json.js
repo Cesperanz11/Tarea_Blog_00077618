@@ -59,7 +59,11 @@ if(cap=="Chapter 5: Commit"){
     var info= `KURT HA MUERTO!!! Esto es algo que nadie se esperaba!! Maldito Ale Rav, te juro que este <br>
     no será el fin, ya pagarás todos tus malos encontra de la humanidad!! <br>
     Espero el sacrificio de Kurt no sea en vano y nos unamos todos a denunciar a Ale rav ahora <br>
-    que ppor fin sabemos su identidad real. Únete a Ada y a mi, en esta gran lucha.`
+    que ppor fin sabemos su identidad real. Únete a Ada y a mi, en esta gran lucha. 
+    <br>
+    <br>
+    <br>
+    EL FIN...?`
     document.getElementById("cap").innerHTML = `CHAPTER 5: COMMIT   `;
     document.getElementById("info").innerHTML = info;
 }

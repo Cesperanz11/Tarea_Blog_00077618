@@ -35,7 +35,7 @@ if(cap=="Chapter 2: O-O-O"){
     document.getElementById("cap").innerHTML = `CHAPTER 2: O-O-O`;
     document.getElementById("info").innerHTML = info;
 }
-if(cap=="Chapter 3: Minus Monocromo"){
+if(cap=="Chapter 3: Minus monocromo"){
     var info= `Kurt este día nos contó la historia de como él, Ada y Ale rav se conocian, <br>
     y sinceramente pobre sujeto, primero sufre el abandono de parte de Ale Rav y luego <br>
     debe lidiar con el dolor de acusar a su mentor y ejemplo a seguir, ya que si no es <br>
